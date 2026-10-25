@@ -42,7 +42,9 @@ not in this repository.
 
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-`Video link to be added.`
+Watch on YouTube: https://www.youtube.com/watch?v=55twP8wZczU
+
+[![Bin Buddy: system modelling and use-case demo](https://img.youtube.com/vi/55twP8wZczU/hqdefault.jpg)](https://www.youtube.com/watch?v=55twP8wZczU)
 
 ---
 
@@ -54,6 +56,7 @@ not in this repository.
 | :-- | :-- |
 | Web app | https://prs-pm-ais-08-ft-grp-5-bin-buddy.vercel.app/ |
 | Model API (try a photo at `/docs`) | https://bin-buddy-api.onrender.com/docs |
+| Video presentation and demo | https://www.youtube.com/watch?v=55twP8wZczU |
 | First-presentation demo (clickable prototype) | https://developinggod.github.io/PRS-Practice-Module-2026-Demo/ |
 
 The model API runs on a free plan: the first request after 15 minutes of inactivity takes about a
